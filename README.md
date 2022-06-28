@@ -1,3 +1,13 @@
+```
+cuda-10.2
+gcc-5.4
+python 3.7.13
+pytorch 1.7.0
+
+pip install .
+```
+
+
 # Neural 3D Mesh Renderer (CVPR 2018)
 
 This repo contains a PyTorch implementation of the paper [Neural 3D Mesh Renderer](http://hiroharu-kato.com/projects_en/neural_renderer.html) by Hiroharu Kato, Yoshitaka Ushiku, and Tatsuya Harada.
